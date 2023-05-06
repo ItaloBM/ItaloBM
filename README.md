@@ -4,12 +4,11 @@
 - 😄 Pronouns:  Ele/Dele
 
 
-<div> 
-  <a href="https://github.com/ItaloBM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloBM&show_icons=true&theme=dracula&include_all_commits=true">
-  <img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/? username=ItaloBM&layout=compact&langs_count=168theme=dracula">
-</div>
-  
+ 
+  [![ItaloBM GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ItaloBM&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/ItaloBM/github-readme-stats#gh-dark-mode-only)
+[![ItaloBM GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ItaloBM&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ItaloBM/github-readme-stats#gh-light-mode-only)
+
+
  ###
 
 <div>  
