@@ -3,12 +3,16 @@
 - 🌱 Estudando HTML, CSS, JavaScript e Python
 - 😄 Pronouns:  Ele/Dele
 
-[![ItaloBM GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ItaloBM&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/ItaloBM/github-readme-stats#gh-dark-mode-only)
-[![ItaloBM GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ItaloBM&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ItaloBM/github-readme-stats#gh-light-mode-only)
 
-###
+<div> 
+  <a href="https://github.com/ItaloBM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloBM&show_icons=true&theme=dracula&include_all_commits=true">
+  <img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/? username=ItaloBM&layout=compact&langs_count=168theme=dracula">
+</div>
+  
+ ###
 
-<div><div>  
+<div>  
   <img align="center" alt="ItaloBM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ItaloBM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ItaloBM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
