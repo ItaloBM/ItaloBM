@@ -1,6 +1,6 @@
 ###  Olá!!! Eu sou o Italo Butinholi Mendes
 
-- 🌱 Estudando HTML, CSS, JavaScript e Python
+- 🌱 Estudando HTML, CSS, JavaScript, Bootstrap, React e Python
 - 😄 Pronouns:  Ele/Dele
 
 <div>
