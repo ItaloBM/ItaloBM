@@ -3,7 +3,7 @@
 - 🌱 Estudando HTML, CSS, JavaScript, Bootstrap, React e Python
 
 <div>
-       ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloBM&theme=2077)
+       http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloBM&theme=2077
 </div>
 
 ###
