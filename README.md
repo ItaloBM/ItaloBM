@@ -2,11 +2,11 @@
 
 - 🌱 Estudando HTML, CSS, JavaScript, Bootstrap, React e Python
 
-<div>
-       <a href="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloBM&theme=2077)"/>
-</div>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloBM&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItaloBM&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItaloBM&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItaloBM&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItaloBM&theme=2077&utcOffset=8)
 
 
 ###
