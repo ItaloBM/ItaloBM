@@ -3,9 +3,7 @@
 - 🌱 Estudando HTML, CSS, JavaScript, Bootstrap, React e Python
 
 <div>
-       <a href="https://github.com/ItaloBM">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloBM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloBM&layout=compact&langs_count=16&theme=dracula"/>
+       ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloBM&theme=2077)
 </div>
 
 ###
